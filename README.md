@@ -1,5 +1,4 @@
-<!-- Encabezado animado -->
-<!-- Encabezado animado -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EFFB1&width=435&lines=Hola%2C+soy+Kevin+Tovar+%F0%9F%91%8B;Desarrollador+Full+Stack+en+formaci%C3%B3n;Transformando+ideas+en+c%C3%B3digo+funcional;Siempre+aprendiendo%2C+siempre+creciendo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
@@ -125,7 +124,4 @@
 
 </div>
 
-<!---
-Thekiller605/Thekiller605 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
